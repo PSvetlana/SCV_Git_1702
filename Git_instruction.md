@@ -1,3 +1,5 @@
+![Git logo](Git_logo.png)
+
 # Работа с Git
 
 ## 1. Проверка наличия установленного Git
@@ -10,3 +12,9 @@
 Загружаем последнюю версию Git с https://git-scm.com/downloads.
 
 ## 3. Настройка Git
+
+При первом использовании Git необходимо представиться. Для этого в терминале нужно внести две команды:
+```
+git config --global user.name "Ваше имя"
+git config --global user.email email@example.com
+```
